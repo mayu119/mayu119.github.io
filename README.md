@@ -9,7 +9,7 @@
 
 ## 1) 公開前に置換する項目
 
-- `support.html` のメールアドレス `support@pawcalm.app`
+- `support.html` のメールアドレス（現在は `mayumayu110999@gmail.com`）
 
 ## 2) 重要: app-ads.txt の公開場所
 
